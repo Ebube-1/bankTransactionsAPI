@@ -1,6 +1,6 @@
 # Bank Transactions API
 A bank transactions API built using Java, Sprng boot, PostgreSQL. 
-The following percentage discounts when included;
+The following percentage discounts where included;
 
 - If the customer is a business user, he gets 27% discount on transactions above 150,000 after three transactions within the same month.
 - If the customer is a retail user, he gets 18% discount on transactions above 50,000 after three transactions within the same month.
